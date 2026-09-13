@@ -68,20 +68,6 @@ Node.js         ██████░░░░░░░░░░░░░░
 
 ---
 
-## 📌 Featured Projects
-
-🚧 *Projects are currently being built...*
-
-| Project          | Technologies         | Description                          |
-| ---------------- | -------------------- | ------------------------------------ |
-| 📝 Personal Blog | Django, Python, HTML | Blog website with CRUD functionality |
-| 🤖 AI Project    | Python, AI           | AI-based application                 |
-| 💻 Java Project  | Java                 | Java-based application               |
-| 🌐 Web Project   | HTML, Django         | Full-stack web application           |
-
-> More exciting projects coming soon! 🚀
-
----
 
 ## 📊 GitHub Stats
 
@@ -99,7 +85,7 @@ Node.js         ██████░░░░░░░░░░░░░░
 
 ## 🤝 Connect With Me
 
-📧 **Email:** Add your email here
+📧 **Email:** jagatjeet494@gmail.com
 
 💼 **LinkedIn:** Add your LinkedIn profile here
 
