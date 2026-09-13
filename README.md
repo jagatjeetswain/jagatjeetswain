@@ -12,7 +12,7 @@ I'm an aspiring software developer who enjoys learning new technologies, buildin
 * 🎓 **B.Tech CSE — 3rd Year**
 * 🏫 **Siksha 'O' Anusandhan (ITER)**
 * 💻 Interested in **Software Development & Web Development**
-* 🌱 Currently learning **Django, React.js & Node.js**
+* 🌱 Currently learning **Django, React.js**
 * ☕ Know **Python & Java**
 * 🌐 Familiar with **HTML**
 * 🔧 Learning and using **Git & GitHub**
@@ -21,38 +21,7 @@ I'm an aspiring software developer who enjoys learning new technologies, buildin
 
 ---
 
-## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-### 🔧 Tools & Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 🌱 Currently Learning
-
-```text
-Python          ███████████████░░░░░
-Java            ████████████░░░░░░░░
-Django          █████████████░░░░░░░
-HTML            ███████████████░░░░░
-Git & GitHub    ████████████░░░░░░░░
-React.js        ███████░░░░░░░░░░░░░
-Node.js         ██████░░░░░░░░░░░░░░
-```
-
----
 
 ## 💼 Goals
 
@@ -93,9 +62,7 @@ Node.js         ██████░░░░░░░░░░░░░░
 
 ---
 
-## 💡 Developer Quote
 
-> **"The best way to learn programming is to build something."**
 
 ---
 
