@@ -56,7 +56,7 @@ I'm an aspiring software developer who enjoys learning new technologies, buildin
 
 📧 **Email:** jagatjeet494@gmail.com
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼 **LinkedIn:** https://www.linkedin.com/in/jagatjeet-swain-a476302b1?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 🐙 **GitHub:** `YOUR_USERNAME`
 
